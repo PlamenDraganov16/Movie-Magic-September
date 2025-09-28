@@ -23,8 +23,8 @@ This is my SoftUni project for the JS-BACKEND Course
 ### Create Movie
 - [x] Add Movie Controller
 - [x] Show create movie page
-- [] Add routes
-- [] Read body data
+- [x] Add routes
+- [x] Read body data
 - [] Create movie
  - [] Add action
  - [] Add service

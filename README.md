@@ -48,8 +48,8 @@ This is my SoftUni project for the JS-BACKEND Course
 
 ### Bonuses
 - [] File Persistance
-- [] Rating
-- [] Dynamic page title
+- [x] Rating (temporary)
+- [x] Dynamic page title
 
 
 

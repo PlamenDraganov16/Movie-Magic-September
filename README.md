@@ -32,10 +32,10 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Redirect after creation
 - [x] Add unique id for each created movie
 ### Details
-- [] Add navigation button for detail page
-- [] Add route with param for detail page
-- [] Get 1 movie from service
-- [] Find movie by id from  model
+- [x] Add navigation button for detail page
+- [x] Add route with param for detail page
+- [x] Get 1 movie from service
+- [x] Find movie by id from  model
 - [] Render details page with dynamic data
 ### Search
 ### Bonuses

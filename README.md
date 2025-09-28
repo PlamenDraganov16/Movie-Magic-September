@@ -37,18 +37,19 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Add route with param for detail page
 - [x] Get 1 movie from service
 - [x] Find movie by id from  model
-- [] Render details page with dynamic data
+- [x] Render details page with dynamic data
 ### Search
 - [x] Show static search page
 - [x] Render all movies
 - [x] Modify search form
-- [] Filter movies
-- [] Remember search words
+- [x] Filter movies
+- [x] Remember search words
 
 
 ### Bonuses
 - [] File Persistance
 - [] Rating
+- [] Dynamic page title
 
 
 

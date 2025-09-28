@@ -39,9 +39,9 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Find movie by id from  model
 - [] Render details page with dynamic data
 ### Search
-- [] Show static search page
-- [] Render all movies
-- [] Modify search form
+- [x] Show static search page
+- [x] Render all movies
+- [x] Modify search form
 - [] Filter movies
 - [] Remember search words
 

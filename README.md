@@ -21,8 +21,8 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Show no movies screen
 ---
 ### Create Movie
-- [] Add Movie Controller
-- [] Show create movie page
+- [x] Add Movie Controller
+- [x] Show create movie page
 - [] Add routes
 - [] Read body data
 - [] Create movie

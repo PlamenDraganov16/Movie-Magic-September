@@ -31,6 +31,7 @@ This is my SoftUni project for the JS-BACKEND Course
  - [x] Add model method 
 - [x] Redirect after creation
 - [x] Add unique id for each created movie
+- [x] Add 404 page
 ### Details
 - [x] Add navigation button for detail page
 - [x] Add route with param for detail page
@@ -38,14 +39,16 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Find movie by id from  model
 - [] Render details page with dynamic data
 ### Search
+- [] Show static search page
+- [] Render all movies
+- [] Modify search form
+- [] Filter movies
+- [] Remember search words
+
+
 ### Bonuses
 - [] File Persistance
-- []
-- []
-- []
-- []
-
-- [] Add 404 page
+- [] Rating
 
 
 

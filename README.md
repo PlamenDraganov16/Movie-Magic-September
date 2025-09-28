@@ -13,11 +13,25 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Add Layout
 - [x] Render About Page
 --- 
-### Architecture
+### Architecture and dynamic rendering
 - [x] Add home controller
 - [x] Add movie data layer
-- [] Add movie service
-- [] Render movies on home page
-- [] Show no movies screen
+- [x] Add movie service
+- [x] Render movies on home page
+- [x] Show no movies screen
+---
+### Create Movie
+- [] Add Movie Controller
+- [] Show create movie page
 - [] Add routes
-- []
+- [] Read body data
+- [] Create movie
+ - [] Add action
+ - [] Add service
+ - [] Add model method 
+
+
+- [] Add 404 page
+
+
+

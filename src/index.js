@@ -1,7 +1,8 @@
-import path from 'node:path'
 import express from 'express';
 import handlebars from 'express-handlebars';
+
 import homeController from './controllers/homeController.js';
+import movieController from './controllers/movieController.js';
 
 const app = express();
 
@@ -18,7 +19,8 @@ app.set('views', 'src/views');
 app.use(express.static('src/public'));
 
 // Routes
-app.use(homeController)
+app.use(homeController);
+app.use(movieController);
 
 
 // Start Server

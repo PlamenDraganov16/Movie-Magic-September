@@ -25,10 +25,11 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Show create movie page
 - [x] Add routes
 - [x] Read body data
-- [] Create movie
- - [] Add action
- - [] Add service
- - [] Add model method 
+- [x] Create movie
+ - [x] Add action
+ - [x] Add service
+ - [x] Add model method 
+ -[] Redirect after creation
 
 
 - [] Add 404 page

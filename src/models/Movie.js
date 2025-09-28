@@ -49,6 +49,18 @@ export default class Movie {
         if(filter._id) {
             result = movies.find(movie => movie._id === filter._id)
         }
+        
+        if(filter.title) {
+
+        }
+
+        if(filter.genre) {
+
+        }
+
+        if(filter.year) {
+            result = result.filter(movie => movie.year === filter.year)
+        }
 
         return result
     }

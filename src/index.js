@@ -13,8 +13,8 @@ app.set('view engine', 'hbs');
 app.set('views', 'src/views');
 
 
-// Middleware
-app.set(express.static('public'));
+// Setup Middleware
+app.use(express.static('src/public'));
 
 // Routes
 app.get('/', (req, res) => {

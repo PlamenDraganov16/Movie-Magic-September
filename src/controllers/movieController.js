@@ -24,7 +24,7 @@ movieController.get('/:movieId/details', async (req, res) => {
 
     const ratingViewData = '&#x2605; '.repeat(Math.trunc(movie.rating));
 
-    res.render('details', { movie, rating: ratingViewData })
+    res.render('details', { movie, rating: ratingViewData, casts: movieCast })
 
 });
 

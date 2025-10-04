@@ -86,3 +86,4 @@ This is my SoftUni project for the JS-BACKEND Course
 
 - [x] Get movie casts filtered
 - [] Show casts on details page
+- [] Using population

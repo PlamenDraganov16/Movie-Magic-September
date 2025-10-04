@@ -25,6 +25,9 @@ export default {
         // return Movie.findOne({_id: movieId});
         return Movie.findById(movieId);
     },
+    getOneDetailed(movieId) {
+        return this.getOne(movieId).populate('casts');
+    },
     create(movieData) {
         movieData.rating = Number(movieData.rating);
 
@@ -36,7 +39,7 @@ export default {
 
         // Add relation 
 
-        return Movie.findByIdAndUpdate(movieId, {$push: {casts: castId}});
+        return Movie.findByIdAndUpdate(movieId, { $push: { casts: castId } });
 
     }
 }

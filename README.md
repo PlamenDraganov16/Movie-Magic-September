@@ -85,5 +85,5 @@ This is my SoftUni project for the JS-BACKEND Course
 ### Show cast Details
 
 - [x] Get movie casts filtered
-- [] Show casts on details page
+- [x] Show casts on details page
 - [] Using population

@@ -51,5 +51,14 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Rating (temporary)
 - [x] Dynamic page title
 
+## Workshop MongoDB
+
+### Setup
+
+- [] Add new resource
+- [x] Add mongoose and connect to DB 'npm i mongoose'
+- [] Add movie Model
+- [] 
+ 
 
 

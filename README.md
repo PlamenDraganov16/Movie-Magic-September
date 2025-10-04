@@ -55,10 +55,21 @@ This is my SoftUni project for the JS-BACKEND Course
 
 ### Setup
 
-- [] Add new resource
 - [x] Add mongoose and connect to DB 'npm i mongoose'
 - [x] Add movie Model
 - [x] General fix for Movie Model
- 
+- [x] Fix own property handlebars
+- [x] General fix for own property
+- [x] Refactor details
+- [x] Refactor create
+- [x] Refactor search
+
+### Add Cast
+
+- [x] Add resourses
+- [] Create cast model
+
+### Attach cast to Movie
 
 
+### Show cast on Details

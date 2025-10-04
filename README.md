@@ -69,8 +69,8 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Add resourses
 - [] Create cast model
 - [] Create cast service
-- [] Create cast controller
-- [] Create cast page
+- [x] Create cast controller
+- [x] Create cast page
 - [] Create cast functions
 
 ### Attach cast to Movie

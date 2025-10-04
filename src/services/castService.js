@@ -12,6 +12,10 @@ export default {
             query = query.in('_id', filter.includes); // mongoose variant
         }
 
+        if(filter.excludes) {
+            query = query.nin('_id', filter.excludes);
+        }
+
         return query;
     }
 }

@@ -31,7 +31,7 @@ movieController.get('/search', async (req, res) => {
 
     const movies = await movieService.getAll(filter);
 
-    res.render('search', { movies, filter, pageTitle: 'Search Movies' })
+    res.render('search', { movies, filter })
 })
 
 export default movieController;

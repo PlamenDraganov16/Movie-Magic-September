@@ -57,8 +57,8 @@ This is my SoftUni project for the JS-BACKEND Course
 
 - [] Add new resource
 - [x] Add mongoose and connect to DB 'npm i mongoose'
-- [] Add movie Model
-- [] 
+- [x] Add movie Model
+- [x] General fix for Movie Model
  
 
 

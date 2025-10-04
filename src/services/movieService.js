@@ -2,9 +2,11 @@ import Movie from "../models/Movie.js";
 
 export default {
     async getAll(filter) {
-        const result = await Movie.find(filter).lean();
+        // const result = await Movie.find(filter).lean();
 
         //const resultObj = result.map(movie => movie.toObject());
+
+        const result = await Movie.find(filter);
 
         return result;
     },

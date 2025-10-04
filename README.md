@@ -76,5 +76,9 @@ This is my SoftUni project for the JS-BACKEND Course
 ### Attach cast to Movie
 
 - [x] Add attach cast button
+- [x] Add attach cast page
+- [x] Add dynamic data to cast page
+- [] Add relation between cast and movie
+- [] Attach cast functionality
 
 ### Show cast on Details

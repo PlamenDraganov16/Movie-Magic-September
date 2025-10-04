@@ -78,8 +78,11 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Add attach cast button
 - [x] Add attach cast page
 - [x] Add dynamic data to cast page
-- [] Show cast in choices
+- [x] Show cast in choices
 - [x] Add relation between cast and movie
-- [] Attach cast functionality
+- [x] Attach cast functionality
 
-### Show cast on Details
+### Show cast Details
+
+- [x] Get movie casts filtered
+- [] Show casts on details page

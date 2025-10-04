@@ -31,6 +31,12 @@ export default {
         // const movie = new Movie(movieData);
         // return movie.save();
         return Movie.create(movieData);
+    },
+    async attach(movieId, castId) {
+
+        // Add relation 
+
+        return Movie.findByIdAndUpdate(movieId, {$push: {casts: castId}});
 
     }
 }

@@ -19,7 +19,10 @@ const castSchema = new Schema({
         type: String,
         required: true,
     },
-
+    movies: [{
+        type: Types.ObjectId,
+        ref: 'Movie',
+    }]
 });
 
 const Cast = model('Cast', castSchema);

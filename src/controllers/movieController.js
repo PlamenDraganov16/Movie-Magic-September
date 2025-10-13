@@ -23,11 +23,12 @@ movieController.get('/:movieId/details', async (req, res) => {
     const movieId = req.params.movieId;
     const movie = await movieService.getOneDetailed(movieId);
 
-    // const isOwner = 
+    // const isOwner = movie.creator === req.user?.id;
+    const isOwner = movie.creator && movie.creator.equals(req.user?.id);
 
     const ratingViewData = '&#x2605; '.repeat(Math.trunc(movie.rating));
 
-    res.render('movies/details', { movie, rating: ratingViewData, })
+    res.render('movies/details', { movie, rating: ratingViewData, isOwner})
 
 });
 

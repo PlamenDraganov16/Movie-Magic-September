@@ -107,7 +107,7 @@ This is my SoftUni project for the JS-BACKEND Course
 ### Login
 
 - [x] Add login page
-- [] Handle login page
-- [] Validate user and password
-- [] Issue token 
-- [] 
+- [x] Handle login page
+- [x] Validate user and password
+- [x] Issue token 
+- [x] Return token to client

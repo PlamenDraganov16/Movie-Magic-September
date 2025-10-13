@@ -125,6 +125,14 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Group nav by user type
 - [x] Add auth info to hbs context
 
+### Show dynamic buttons
+- [x] add edit and delete btns
+- [x] add creator as relation to movies
+- [x] add user as creator on moviecreate
+- [] show buttons only for creators
+
 ### Delete Movies
+
+
 
 ### Edit Movies

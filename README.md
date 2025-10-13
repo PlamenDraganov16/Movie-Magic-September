@@ -95,3 +95,13 @@ This is my SoftUni project for the JS-BACKEND Course
 - [] 
 
 ## Workshop 3 - Session and Authentication
+
+### Registration
+- [] Add new controller
+- [] Add registration page
+- [] Handle registration
+- [] Add User model
+- [] Add User service
+- [] Add password hashing
+
+### Login

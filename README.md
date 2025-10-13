@@ -97,11 +97,11 @@ This is my SoftUni project for the JS-BACKEND Course
 ## Workshop 3 - Session and Authentication
 
 ### Registration
-- [] Add new controller
-- [] Add registration page
-- [] Handle registration
-- [] Add User model
-- [] Add User service
+- [x] Add new controller
+- [x] Add registration page
+- [x] Handle registration
+- [x] Add User model
+- [x] Add User service
 - [] Add password hashing
 
 ### Login

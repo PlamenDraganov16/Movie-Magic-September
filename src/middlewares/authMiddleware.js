@@ -14,6 +14,11 @@ export default function authMiddleware(req, res, next) {
         // Attach user to request
         req.user = decodedToken;
         req.isAuthenticated = true;
+
+        // Add to hbs context
+        res.locals.isAuthenticated = true;
+        res.locals.user = decodedToken;
+
         // Valid user
         next();
 
@@ -32,4 +37,12 @@ export function isAuth(req, res, next) {
     }
 
     next();
-} 
+};
+
+export function isGuest(req, res, next) {
+    if(req.isAuthenticated) {
+        return res.redirect('/');
+    }
+
+    next();
+};

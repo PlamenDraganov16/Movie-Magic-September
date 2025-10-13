@@ -122,10 +122,8 @@ This is my SoftUni project for the JS-BACKEND Course
 
 
 ### Dynamic Nav
-
-- []
-- []
-- []
+- [x] Group nav by user type
+- [x] Add auth info to hbs context
 
 ### Delete Movies
 

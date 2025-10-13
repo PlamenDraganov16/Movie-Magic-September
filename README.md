@@ -102,6 +102,12 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Handle registration
 - [x] Add User model
 - [x] Add User service
-- [] Add password hashing
+- [x] Add password hashing
 
 ### Login
+
+- [x] Add login page
+- [] Handle login page
+- [] Validate user and password
+- [] Issue token 
+- [] 

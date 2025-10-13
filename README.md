@@ -91,8 +91,10 @@ This is my SoftUni project for the JS-BACKEND Course
 ### Bonuses
  
 - [x] Filters casts if they are already attached
-- []
-- [] 
+- [] env variables
+- [] name in movie
+- [] back refference from vscode
+- [x] add movie views to a folder
 
 ## Workshop 3 - Session and Authentication
 
@@ -139,3 +141,7 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] add edit page
 - [x] add dynamic movie data
 - [x] handle edit movie
+- [] edit categories
+
+### Bonus
+- [] automatic login on register

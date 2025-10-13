@@ -141,7 +141,7 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] add edit page
 - [x] add dynamic movie data
 - [x] handle edit movie
-- [] edit categories
+- [x] edit categories
 
 ### Bonus
-- [] automatic login on register
+- [x] automatic login on register

@@ -137,4 +137,5 @@ This is my SoftUni project for the JS-BACKEND Course
 
 ### Edit Movies
 - [x] add edit page
-- [] add dynamic movie data
+- [x] add dynamic movie data
+- [x] handle edit movie

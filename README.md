@@ -135,5 +135,6 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] add delete action
 - [x] add creator validation
 
-
 ### Edit Movies
+- [x] add edit page
+- [] add dynamic movie data

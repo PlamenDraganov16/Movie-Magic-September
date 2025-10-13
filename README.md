@@ -111,3 +111,18 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Validate user and password
 - [x] Issue token 
 - [x] Return token to client
+
+### Logout
+- [x] Clear cookie
+
+### Authorization
+
+### Dynamic Nav
+
+- []
+- []
+- []
+
+### Delete Movies
+
+### Edit Movies

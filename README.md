@@ -116,6 +116,10 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Clear cookie
 
 ### Authorization
+- [] add auth middleware
+- [] validate user authentication
+- [] 
+
 
 ### Dynamic Nav
 

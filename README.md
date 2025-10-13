@@ -129,7 +129,7 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] add edit and delete btns
 - [x] add creator as relation to movies
 - [x] add user as creator on moviecreate
-- [] show buttons only for creators
+- [x] show buttons only for creators
 
 ### Delete Movies
 

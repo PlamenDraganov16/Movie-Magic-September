@@ -132,7 +132,8 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] show buttons only for creators
 
 ### Delete Movies
-
+- [x] add delete action
+- [x] add creator validation
 
 
 ### Edit Movies

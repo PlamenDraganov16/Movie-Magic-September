@@ -39,5 +39,8 @@ export default {
 
         return Movie.findByIdAndUpdate(movieId, { $push: { casts: castId } });
 
+    },
+    async delete(movieId) {
+        return Movie.findByIdAndDelete(movieId);
     }
 }

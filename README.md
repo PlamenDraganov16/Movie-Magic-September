@@ -93,3 +93,5 @@ This is my SoftUni project for the JS-BACKEND Course
 - [x] Filters casts if they are already attached
 - []
 - [] 
+
+## Workshop 3 - Session and Authentication

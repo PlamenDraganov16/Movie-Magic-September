@@ -13,8 +13,10 @@ routes.use('/casts', castController);
 routes.use('/auth', authController);
 
 // Add not found page
-routes.get('*splat', (req, res) => {
+routes.get('/*splat', (req, res) => {
+    console.log(req.tempData);
+
     res.render('404');
-})
+});
 
 export default routes;
